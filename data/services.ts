@@ -78,6 +78,22 @@ export const services: Service[] = [
   },
   // Spanish
   {
+    id: 'cloud-consulting',
+    lang: 'es',
+    icon: 'cloud',
+    title: 'Consultoría Cloud',
+    shortDescription: 'Soluciones cloud estratégicas para optimizar tu infraestructura.',
+    description: 'Maximiza la eficiencia y reduce costos con consultoría cloud experta. Te ayudamos a migrar, optimizar y gestionar tu infraestructura en la nube con AWS, Azure y Google Cloud.',
+    features: [
+      'Estrategia de migración cloud',
+      'Infraestructura como Código (IaC)',
+      'Experiencia en AWS, Azure, GCP',
+      'Optimización de costos',
+      'Seguridad y cumplimiento',
+      'Pipelines DevOps y CI/CD',
+    ],
+  },
+  {
     id: 'web-development',
     lang: 'es',
     icon: 'web',
@@ -107,22 +123,6 @@ export const services: Service[] = [
       'Desarrollo Flutter',
       'Optimización App Store',
       'Diseño UI/UX móvil',
-    ],
-  },
-  {
-    id: 'cloud-consulting',
-    lang: 'es',
-    icon: 'cloud',
-    title: 'Consultoría Cloud',
-    shortDescription: 'Soluciones cloud estratégicas para optimizar tu infraestructura.',
-    description: 'Maximiza la eficiencia y reduce costos con consultoría cloud experta. Te ayudamos a migrar, optimizar y gestionar tu infraestructura en la nube con AWS, Azure y Google Cloud.',
-    features: [
-      'Estrategia de migración cloud',
-      'Infraestructura como Código (IaC)',
-      'Experiencia en AWS, Azure, GCP',
-      'Optimización de costos',
-      'Seguridad y cumplimiento',
-      'Pipelines DevOps y CI/CD',
     ],
   },
   {
