@@ -9,7 +9,7 @@ node_modules/
 # -----------------------------
 
 .next/
-out/
+#out/
 build/
 
 # -----------------------------
@@ -84,6 +84,7 @@ coverage/
 .net/
 .opencode/
 CLAUDE.md
+DEPLOY.md
 
 # -----------------------------
 # Misc
