@@ -76,15 +76,18 @@ Thumbs.db
 coverage/
 
 # -----------------------------
-# Custom folders (your case)
+# IA folders and other tools
 # -----------------------------
 
+.claude
 .agents/
 .net/
 .opencode/
+CLAUDE.md
 
 # -----------------------------
 # Misc
 # -----------------------------
 
 *.pem
+
