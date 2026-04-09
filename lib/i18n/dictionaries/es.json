@@ -16,10 +16,10 @@
     "careers": "Carreras",
     "contact": "Contacto",
     "services": "Servicios",
-    "webDevelopment": "Desarrollo Web",
-    "mobileDevelopment": "Desarrollo Móvil",
-    "cloudConsulting": "Consultoría Cloud",
-    "itConsulting": "Consultoría TI",
+    "digitalTransformation": "Transformación Digital",
+    "softwareDevelopment": "Desarrollo de Software",
+    "corporateTraining": "Capacitación Empresarial",
+    "iot": "Soluciones IoT",
     "resources": "Recursos",
     "blog": "Blog",
     "portfolio": "Portafolio",
@@ -235,56 +235,56 @@
       }
     },
     "items": {
-      "web-development": {
-        "title": "Desarrollo Web",
-        "shortDescription": "Aplicaciones web modernas y responsivas construidas con tecnologías de vanguardia.",
-        "description": "Creamos aplicaciones web impresionantes y de alto rendimiento usando React, TypeScript y frameworks modernos. Desde sitios web corporativos hasta plataformas web complejas, entregamos soluciones que escalan con tu negocio.",
+      "digital-transformation": {
+        "title": "Consultoría en Transformación Digital",
+        "shortDescription": "Orientación estratégica para modernizar tus procesos de negocio y adoptar la innovación digital.",
+        "description": "Ayudamos a las organizaciones a navegar el complejo camino de la transformación digital. Desde la optimización de procesos hasta la gestión del cambio, brindamos consultoría integral para modernizar tus operaciones y desbloquear nuevas oportunidades de crecimiento.",
         "features": [
-          "Aplicaciones personalizadas en React y TypeScript",
-          "Aplicaciones Web Progresivas (PWA)",
-          "Plataformas de comercio electrónico",
-          "Sistemas de Gestión de Contenido",
-          "Integraciones con APIs",
-          "Optimización del rendimiento"
+          "Estrategia digital y hoja de ruta",
+          "Optimización de procesos de negocio",
+          "Gestión del cambio",
+          "Evaluación y selección de tecnología",
+          "Desarrollo de cultura digital",
+          "Talleres de innovación"
         ]
       },
-      "mobile-development": {
-        "title": "Desarrollo Móvil",
-        "shortDescription": "Aplicaciones móviles nativas y multiplataforma para iOS y Android.",
-        "description": "Construye experiencias móviles poderosas que atraigan a los usuarios en cualquier dispositivo. Desarrollamos aplicaciones nativas y multiplataforma usando React Native y Flutter.",
+      "software-development": {
+        "title": "Desarrollo de Software",
+        "shortDescription": "Soluciones de software personalizadas adaptadas a los requerimientos únicos de tu negocio.",
+        "description": "Construimos soluciones de software de alta calidad y escalables usando tecnologías modernas y mejores prácticas. Desde aplicaciones web y móviles hasta sistemas empresariales, entregamos soluciones que generan valor de negocio.",
         "features": [
-          "Apps nativas para iOS y Android",
-          "Desarrollo multiplataforma",
-          "Aplicaciones React Native",
-          "Desarrollo Flutter",
-          "Optimización para App Store",
-          "Diseño UI/UX móvil"
+          "Aplicaciones web personalizadas",
+          "Desarrollo de aplicaciones móviles",
+          "Soluciones de software empresarial",
+          "Desarrollo e integración de APIs",
+          "Modernización de sistemas legados",
+          "Aplicaciones nativas en la nube"
         ]
       },
-      "cloud-consulting": {
-        "title": "Consultoría Cloud",
-        "shortDescription": "Soluciones estratégicas en la nube para optimizar tu infraestructura.",
-        "description": "Maximiza la eficiencia y reduce costos con consultoría experta en la nube. Te ayudamos a migrar, optimizar y gestionar tu infraestructura en la nube en AWS, Azure y Google Cloud.",
+      "corporate-training": {
+        "title": "Capacitación Empresarial",
+        "shortDescription": "Empodera a tu equipo con habilidades y conocimientos tecnológicos de vanguardia.",
+        "description": "Invierte en tu activo más valioso - tu gente. Ofrecemos programas integrales de capacitación tecnológica diseñados para mejorar las habilidades de tu equipo, aumentar la productividad y mantener a tu equipo a la vanguardia.",
         "features": [
-          "Estrategia de migración a la nube",
-          "Infraestructura como Código (IaC)",
-          "Experiencia en AWS, Azure, GCP",
-          "Optimización de costos",
-          "Seguridad y cumplimiento",
-          "Pipelines DevOps y CI/CD"
+          "Programas de capacitación personalizados",
+          "Talleres técnicos",
+          "Liderazgo en tecnología",
+          "Prácticas Agile y DevOps",
+          "Capacitación en tecnologías cloud",
+          "Preparación para certificaciones"
         ]
       },
-      "it-consulting": {
-        "title": "Consultoría TI",
-        "shortDescription": "Orientación tecnológica estratégica para impulsar la transformación digital.",
-        "description": "Transforma tu negocio con consultoría estratégica de TI. Analizamos tus necesidades, recomendamos soluciones y guiamos la implementación para alcanzar tus objetivos tecnológicos.",
+      "iot": {
+        "title": "Soluciones IoT",
+        "shortDescription": "Conecta, monitorea y optimiza tus operaciones con soluciones IoT inteligentes.",
+        "description": "Aprovecha el poder del Internet de las Cosas para transformar las operaciones de tu negocio. Diseñamos e implementamos soluciones IoT que proporcionan información en tiempo real, automatizan procesos y crean nuevas fuentes de valor.",
         "features": [
-          "Estrategia de transformación digital",
-          "Hoja de ruta tecnológica",
-          "Diseño de arquitectura de sistemas",
-          "Automatización de procesos",
-          "Selección y gestión de proveedores",
-          "Gobernanza y seguridad de TI"
+          "Diseño de arquitectura IoT",
+          "Integración de sensores",
+          "Sistemas de monitoreo en tiempo real",
+          "Mantenimiento predictivo",
+          "Automatización industrial",
+          "Análisis de datos y visualización"
         ]
       }
     }
@@ -344,10 +344,10 @@
       "service": "Servicio de Interés",
       "servicePlaceholder": "Selecciona un servicio",
       "serviceOptions": {
-        "webDevelopment": "Desarrollo Web",
-        "mobileDevelopment": "Desarrollo Móvil",
-        "cloudConsulting": "Consultoría Cloud",
-        "itConsulting": "Consultoría TI",
+        "digitalTransformation": "Consultoría en Transformación Digital",
+        "softwareDevelopment": "Desarrollo de Software",
+        "corporateTraining": "Capacitación Empresarial",
+        "iot": "Soluciones IoT",
         "other": "Otro"
       },
       "budget": "Rango de Presupuesto",
@@ -483,6 +483,45 @@
     "terms": {
       "title": "Términos de Servicio | Koru - Consultoría & Desarrollo",
       "description": "Términos y condiciones para el uso de los servicios de Koru - Consultoría & Desarrollo."
+    },
+    "careers": {
+      "title": "Carreras | Koru - Consultoría & Desarrollo",
+      "description": "Únete a nuestro equipo. Explora oportunidades de carrera en Koru."
+    }
+  },
+  "careers": {
+    "hero": {
+      "badge": "Carreras",
+      "title": "Únete a Nuestro Equipo",
+      "description": "Construye tu carrera con nosotros. En Koru valoramos el talento, la innovación y el crecimiento profesional."
+    },
+    "noOpenings": {
+      "title": "No Hay Vacantes Disponibles",
+      "description": "Actualmente no tenemos posiciones abiertas, pero siempre estamos interesados en conocer profesionales talentosos. Envíanos tu información y te contactaremos cuando surjan nuevas oportunidades.",
+      "contactButton": "Enviar mi Información"
+    },
+    "filled": {
+      "badge": "Posiciones Cubiertas",
+      "title": "Contrataciones Recientes",
+      "description": "Estas posiciones fueron cubiertas recientemente por talentosos profesionales que ahora son parte de nuestro equipo.",
+      "status": "Cubierto"
+    },
+    "positions": {
+      "designer": {
+        "title": "Diseñador UI/UX",
+        "department": "Equipo de Diseño",
+        "filledDate": "Cubierto en Marzo 2025"
+      },
+      "backendDev": {
+        "title": "Desarrollador Backend",
+        "department": "Equipo de Desarrollo",
+        "filledDate": "Cubierto en Febrero 2025"
+      }
+    },
+    "stayConnected": {
+      "title": "¿Interesado en Futuras Oportunidades?",
+      "description": "Síguenos en LinkedIn para estar al tanto de nuevas vacantes y noticias de la empresa.",
+      "contactButton": "Contáctanos"
     }
   },
   "privacy": {

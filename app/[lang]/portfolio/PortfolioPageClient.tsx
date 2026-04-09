@@ -128,7 +128,7 @@ export default function PortfolioPageClient() {
               { number: '50+', labelKey: 'portfolio.stats.items.projectsDelivered' },
               { number: '98%', labelKey: 'portfolio.stats.items.clientSatisfaction' },
               { number: '85%', labelKey: 'portfolio.stats.items.repeatClients' },
-              { number: '10+', labelKey: 'portfolio.stats.items.countriesServed' },
+              { number: '5+', labelKey: 'portfolio.stats.items.countriesServed' },
             ].map((stat, index) => (
               <motion.div
                 key={stat.labelKey}

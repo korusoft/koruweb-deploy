@@ -16,10 +16,10 @@
     "careers": "Careers",
     "contact": "Contact",
     "services": "Services",
-    "webDevelopment": "Web Development",
-    "mobileDevelopment": "Mobile Development",
-    "cloudConsulting": "Cloud Consulting",
-    "itConsulting": "IT Consulting",
+    "digitalTransformation": "Digital Transformation",
+    "softwareDevelopment": "Software Development",
+    "corporateTraining": "Corporate Training",
+    "iot": "IoT Solutions",
     "resources": "Resources",
     "blog": "Blog",
     "portfolio": "Portfolio",
@@ -235,56 +235,56 @@
       }
     },
     "items": {
-      "web-development": {
-        "title": "Web Development",
-        "shortDescription": "Modern, responsive web applications built with cutting-edge technologies.",
-        "description": "We create stunning, high-performance web applications using React, TypeScript, and modern frameworks. From corporate websites to complex web platforms, we deliver solutions that scale with your business.",
+      "digital-transformation": {
+        "title": "Digital Transformation Consulting",
+        "shortDescription": "Strategic guidance to modernize your business processes and embrace digital innovation.",
+        "description": "We help organizations navigate the complex journey of digital transformation. From process optimization to change management, we provide comprehensive consulting to modernize your operations and unlock new growth opportunities.",
         "features": [
-          "Custom React & TypeScript applications",
-          "Progressive Web Apps (PWA)",
-          "E-commerce platforms",
-          "Content Management Systems",
-          "API integrations",
-          "Performance optimization"
+          "Digital strategy and roadmap",
+          "Business process optimization",
+          "Change management",
+          "Technology assessment and selection",
+          "Digital culture development",
+          "Innovation workshops"
         ]
       },
-      "mobile-development": {
-        "title": "Mobile Development",
-        "shortDescription": "Native and cross-platform mobile apps for iOS and Android.",
-        "description": "Build powerful mobile experiences that engage users on any device. We develop native and cross-platform applications using React Native and Flutter.",
+      "software-development": {
+        "title": "Software Development",
+        "shortDescription": "Custom software solutions tailored to your unique business requirements.",
+        "description": "We build high-quality, scalable software solutions using modern technologies and best practices. From web and mobile applications to enterprise systems, we deliver solutions that drive business value.",
         "features": [
-          "iOS & Android native apps",
-          "Cross-platform development",
-          "React Native applications",
-          "Flutter development",
-          "App Store optimization",
-          "Mobile UI/UX design"
+          "Custom web applications",
+          "Mobile app development",
+          "Enterprise software solutions",
+          "API development and integration",
+          "Legacy system modernization",
+          "Cloud-native applications"
         ]
       },
-      "cloud-consulting": {
-        "title": "Cloud Consulting",
-        "shortDescription": "Strategic cloud solutions to optimize your infrastructure.",
-        "description": "Maximize efficiency and reduce costs with expert cloud consulting. We help you migrate, optimize, and manage your cloud infrastructure on AWS, Azure, and Google Cloud.",
+      "corporate-training": {
+        "title": "Corporate Training",
+        "shortDescription": "Empower your team with cutting-edge technology skills and knowledge.",
+        "description": "Invest in your most valuable asset - your people. We offer comprehensive technology training programs designed to upskill your workforce, boost productivity, and keep your team ahead of the curve.",
         "features": [
-          "Cloud migration strategy",
-          "Infrastructure as Code (IaC)",
-          "AWS, Azure, GCP expertise",
-          "Cost optimization",
-          "Security & compliance",
-          "DevOps & CI/CD pipelines"
+          "Customized training programs",
+          "Technical workshops",
+          "Leadership in technology",
+          "Agile and DevOps practices",
+          "Cloud technologies training",
+          "Certification preparation"
         ]
       },
-      "it-consulting": {
-        "title": "IT Consulting",
-        "shortDescription": "Strategic technology guidance to drive digital transformation.",
-        "description": "Transform your business with strategic IT consulting. We analyze your needs, recommend solutions, and guide implementation to achieve your technology goals.",
+      "iot": {
+        "title": "IoT Solutions",
+        "shortDescription": "Connect, monitor, and optimize your operations with intelligent IoT solutions.",
+        "description": "Harness the power of the Internet of Things to transform your business operations. We design and implement IoT solutions that provide real-time insights, automate processes, and create new value streams.",
         "features": [
-          "Digital transformation strategy",
-          "Technology roadmapping",
-          "System architecture design",
-          "Process automation",
-          "Vendor selection & management",
-          "IT governance & security"
+          "IoT architecture design",
+          "Sensor integration",
+          "Real-time monitoring systems",
+          "Predictive maintenance",
+          "Industrial automation",
+          "Data analytics and visualization"
         ]
       }
     }
@@ -344,10 +344,10 @@
       "service": "Service of Interest",
       "servicePlaceholder": "Select a service",
       "serviceOptions": {
-        "webDevelopment": "Web Development",
-        "mobileDevelopment": "Mobile Development",
-        "cloudConsulting": "Cloud Consulting",
-        "itConsulting": "IT Consulting",
+        "digitalTransformation": "Digital Transformation Consulting",
+        "softwareDevelopment": "Software Development",
+        "corporateTraining": "Corporate Training",
+        "iot": "IoT Solutions",
         "other": "Other"
       },
       "budget": "Budget Range",
@@ -483,6 +483,45 @@
     "terms": {
       "title": "Terms of Service | Koru - Consulting & Development",
       "description": "Terms and conditions for using Koru - Consulting & Development services."
+    },
+    "careers": {
+      "title": "Careers | Koru - Consulting & Development",
+      "description": "Join our team. Explore career opportunities at Koru."
+    }
+  },
+  "careers": {
+    "hero": {
+      "badge": "Careers",
+      "title": "Join Our Team",
+      "description": "Build your career with us. At Koru we value talent, innovation, and professional growth."
+    },
+    "noOpenings": {
+      "title": "No Open Positions",
+      "description": "We currently don't have any open positions, but we're always interested in meeting talented professionals. Send us your information and we'll contact you when new opportunities arise.",
+      "contactButton": "Send My Information"
+    },
+    "filled": {
+      "badge": "Filled Positions",
+      "title": "Recent Hires",
+      "description": "These positions were recently filled by talented professionals who are now part of our team.",
+      "status": "Filled"
+    },
+    "positions": {
+      "designer": {
+        "title": "UI/UX Designer",
+        "department": "Design Team",
+        "filledDate": "Filled in March 2025"
+      },
+      "backendDev": {
+        "title": "Backend Developer",
+        "department": "Development Team",
+        "filledDate": "Filled in February 2025"
+      }
+    },
+    "stayConnected": {
+      "title": "Interested in Future Opportunities?",
+      "description": "Follow us on LinkedIn to stay updated on new openings and company news.",
+      "contactButton": "Contact Us"
     }
   },
   "privacy": {

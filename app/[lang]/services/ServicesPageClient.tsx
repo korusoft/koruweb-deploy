@@ -5,7 +5,7 @@ import ServiceCard from '@/components/ui/ServiceCard';
 import CTASection from '@/components/sections/CTA';
 import { useTranslation } from '@/hooks/useTranslation';
 
-const serviceIds = ['web-development', 'mobile-development', 'cloud-consulting', 'it-consulting'] as const;
+const serviceIds = ['digital-transformation', 'software-development', 'corporate-training', 'iot'] as const;
 
 const processSteps = ['discovery', 'strategy', 'development', 'delivery'] as const;
 

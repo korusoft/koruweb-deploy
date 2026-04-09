@@ -1,13 +1,13 @@
 export const i18n = {
-  defaultLocale: 'en',
-  locales: ['en', 'es'],
+  defaultLocale: 'es',
+  locales: ['es', 'en'],
 } as const;
 
 export type Locale = (typeof i18n)['locales'][number];
 
 export const languageNames: Record<Locale, string> = {
-  en: 'English',
   es: 'Español',
+  en: 'English',
 };
 
 // Key for storing locale preference in localStorage
