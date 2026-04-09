@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[8066,["/_next/static/chunks/5a17359b280b2fab.js","/_next/static/chunks/4453bda2f01d1d9d.js","/_next/static/chunks/ece35e6cba8719a5.js","/_next/static/chunks/b43a0b91497991be.js","/_next/static/chunks/77220de5ad0f3f05.js","/_next/static/chunks/bbbd295f5e0b9ede.js","/_next/static/chunks/ab8f0e15ccbea8d0.js","/_next/static/chunks/52ef3ded3d917eaa.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T404,
+      <p>Migrating to the cloud is a transformative journey that requires careful planning and execution. Here are the best practices we've learned from dozens of successful migrations.</p>
+
+      <h2>Assessment Phase</h2>
+      <p>Before migrating anything, conduct a thorough assessment of your current infrastructure. Identify dependencies, performance requirements, and potential challenges.</p>
+
+      <h2>Choose the Right Strategy</h2>
+      <p>Not every application should be migrated the same way. Consider lift-and-shift for legacy systems, refactoring for applications that can benefit from cloud-native features, and rebuilding for systems that need modernization.</p>
+
+      <h2>Security First</h2>
+      <p>Security shouldn't be an afterthought. Implement proper identity management, encryption, and compliance measures from day one.</p>
+
+      <h2>Monitor and Optimize</h2>
+      <p>Once migrated, continuously monitor performance and costs. Cloud optimization is an ongoing process, not a one-time task.</p>
+    0:{"buildId":"XvxKaJTqeu6eK4mtYRBaA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"post-2","lang":"en","slug":"cloud-migration-best-practices","title":"Cloud Migration: Best Practices for Success","excerpt":"A comprehensive guide to planning and executing a successful cloud migration strategy.","content":"$3","author":"Maria Rodriguez","authorImage":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face","date":"2025-01-10","readTime":"7 min read","category":"Cloud","image":"https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop","tags":["Cloud","AWS","Migration"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/52ef3ded3d917eaa.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
