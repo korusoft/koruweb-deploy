@@ -79,7 +79,7 @@ coverage/
 # IA folders and other tools
 # -----------------------------
 
-.claude
+.claude/
 .agents/
 .net/
 .opencode/
