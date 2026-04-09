@@ -165,3 +165,14 @@ html {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
+
+/* Map iframe */
+.map-iframe {
+  border: 0;
+}
+
+/* Hero grid pattern overlay */
+.hero-grid-pattern {
+  background-image: linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
